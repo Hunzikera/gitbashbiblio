@@ -1,3 +1,2 @@
 cecei est un test pour le cours Git de la biblio
 Anthony est largué et fatigué
-Ceci est une grosse bêtise
